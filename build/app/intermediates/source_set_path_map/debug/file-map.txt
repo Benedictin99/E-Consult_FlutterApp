@@ -1,0 +1,20 @@
+com.example.e_consult.app-jetified-firebase-common-20.3.3-0 /home/ben/.gradle/caches/transforms-3/04d54205cae76f1c8bb124053dfe73f4/transformed/jetified-firebase-common-20.3.3/res
+com.example.e_consult.app-jetified-window-1.0.0-beta04-1 /home/ben/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/res
+com.example.e_consult.app-jetified-annotation-experimental-1.1.0-2 /home/ben/.gradle/caches/transforms-3/33edf3ee0517c86776bd6cb7682045f3/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.e_consult.app-browser-1.4.0-3 /home/ben/.gradle/caches/transforms-3/3d4b5db11bf2fad537013066bd937ed1/transformed/browser-1.4.0/res
+com.example.e_consult.app-jetified-play-services-basement-18.1.0-4 /home/ben/.gradle/caches/transforms-3/98537e5ec70bbb9b95a3c4905239e936/transformed/jetified-play-services-basement-18.1.0/res
+com.example.e_consult.app-jetified-window-java-1.0.0-beta04-5 /home/ben/.gradle/caches/transforms-3/c432125e31208403c91c32696aef3709/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.e_consult.app-core-1.6.0-6 /home/ben/.gradle/caches/transforms-3/cfb1b99aff7ad9cf4c1b8532c6075063/transformed/core-1.6.0/res
+com.example.e_consult.app-jetified-play-services-base-18.0.1-7 /home/ben/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/res
+com.example.e_consult.app-debug-8 /home/ben/Bureau/Dev/Flutter Studio/e_consult/android/app/src/debug/res
+com.example.e_consult.app-main-9 /home/ben/Bureau/Dev/Flutter Studio/e_consult/android/app/src/main/res
+com.example.e_consult.app-pngs-10 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/app/generated/res/pngs/debug
+com.example.e_consult.app-resValues-11 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/app/generated/res/resValues/debug
+com.example.e_consult.app-rs-12 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/app/generated/res/rs/debug
+com.example.e_consult.app-mergeDebugResources-13 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.e_consult.app-mergeDebugResources-14 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.e_consult.app-merged_res-15 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/app/intermediates/merged_res/debug
+com.example.e_consult.app-packaged_res-16 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.e_consult.app-packaged_res-17 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/firebase_auth/intermediates/packaged_res/debug
+com.example.e_consult.app-packaged_res-18 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/firebase_core/intermediates/packaged_res/debug
+com.example.e_consult.app-packaged_res-19 /home/ben/Bureau/Dev/Flutter Studio/e_consult/build/fluttertoast/intermediates/packaged_res/debug

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009293472700",
+    "project_id": "flutter-econsultapp",
+    "storage_bucket": "flutter-econsultapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009293472700:android:0a101304d9ac8e4d1471b9",
+        "android_client_info": {
+          "package_name": "com.example.e_consult"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHeuQZua5NIASNrHQ_2mRRQWyZ9lpvIws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
